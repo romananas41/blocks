@@ -1,0 +1,88 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+p {
+    background-color: yellow;
+    font-size: 45px;
+    color: lightgreen;
+    text-align: center;
+}
+.block1, .block2, .block3 {
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.block1 {
+    border: 2px solid black;
+    background-color: lightblue;
+    text-align: center;
+}
+.block2 {
+    border: 3px dashed red;
+    background-color: yellow;
+    text-align: center;
+}
+.block3 {
+    border: 4px dotted green;
+    background-color: pink;
+    text-align: center;
+}
+.block4 {
+    margin: 15px;
+    padding: 25px;
+    border-radius: 7px;
+    border: 3px solid purple;
+    background-color: lavender;
+    text-align: center;
+}
+
+.block5 {
+    margin: 20px;
+    padding: 30px;
+    border-radius: 8px;
+    border: 4px dashed orange;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.block6 {
+    margin: 25px;
+    padding: 35px;
+    border-radius: 9px;
+    border: 5px dotted teal;
+    background-color: lightcoral;
+    text-align: center;
+}
+
+
+.container {
+    width: 50%; 
+    margin: 0; 
+    float: left; 
+    clear: both; 
+}
+.block7 {
+    margin: 15px;
+    padding: 25px;
+    border-radius: 7px;
+    border: 3px solid navy;
+    background-color: lightyellow;
+    text-align: center;
+}
+.block8 {
+    margin: 20px;
+    padding: 30px;
+    border-radius: 8px;
+    border: 4px dashed maroon;
+    background-color: lightcyan;
+    text-align: center;
+}
+.block9 {
+    margin: 25px;
+    padding: 35px;
+    border-radius: 9px;
+    border: 5px dotted olive;
+    background-color: lavenderblush;
+    text-align: center;
+}
